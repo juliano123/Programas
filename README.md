@@ -1,2 +1,1 @@
 # Programas
-alguns app
